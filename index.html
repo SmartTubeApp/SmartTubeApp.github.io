@@ -125,6 +125,14 @@
                 
                 <!-- hide certain files in menu -->
                 
+                  
+                <!-- exclude any lang prefixes -->
+                
+                
+                <!-- second, render only pages with same lang -->
+                
+                <!-- hide certain files in menu -->
+                
 
                 
                   <li class="pure-menu-item pure-menu-selected"><a href="/" class="pure-menu-link">Home</a></li>
@@ -148,7 +156,14 @@
                 
                 <!-- hide certain files in menu -->
                 
-                  
+
+                
+                  <li class="pure-menu-item"><a href="/ua/" class="pure-menu-link">Головна</a></li>
+                
+                
+                
+
+              
             </ul>
             <ul class="pure-menu-list">
               
@@ -207,11 +222,12 @@
 	var userLang = detectLanguage();
 
 	switch (userLang) {
-		case 'ru':
 		case 'uk':
+			window.location.href = '/ua/';
+			break;
+		case 'ru':
 		case 'be':
-			userLang = 'ru';
-			window.location.href = '/' + userLang + '/';
+			window.location.href = '/ru/';
 			break;
 	}
 </script>
