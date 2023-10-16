@@ -44,14 +44,14 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 
 #### Manual
 
-__[Features guide](https://github.com/yuliskov/SmartTubeNext#device-support)__
+__[Features guide](https://github.com/yuliskov/SmartTube#device-support)__
 
 <a name="source-code-section"/>
 
 #### Sources
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}})   -->
-__[Source code](https://github.com/yuliskov/SmartTubeNext)__
+__[Source code](https://github.com/yuliskov/SmartTube)__
 <!-- - [Additional apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 version]({{site.binaries.MiTV2}})   -->
 <!-- - [MysteryTV version]({{site.binaries.MiTV2}})   -->
@@ -71,7 +71,7 @@ The __Beta__ version is intended for advanced users which want to have 4K and cu
 <!-- __Additional apk__ - video output engines. Used in 1080 Alt and 4K Alt versions. Download is needed only in case when main app can't do it automatically. -->
 
 #### Found a bug?
-You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartTubeNext/issues)__ or tell us in our Telegram group (see below).
+You can report in the __[issue tracker on Github](https://github.com/yuliskov/SmartTube/issues)__ or tell us in our Telegram group (see below).
 
 <!-- #### Contributors
  * __[WolfganP](https://github.com/WolfganP)__ (README)

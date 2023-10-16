@@ -21,14 +21,14 @@
 
 #### Гайд по функциям
 
-__[Открыть руководство (EN)](https://github.com/yuliskov/SmartTubeNext#device-support)__
+__[Открыть руководство (EN)](https://github.com/yuliskov/SmartTube#device-support)__
 
 <a name="source-code-section"/>
 
 #### Исходный код
 <!-- - __[YouTube Kids]({{site.binaries.kids}})__ -->
 <!-- - [YouTube LIVE]({{site.binaries.Live}}) -->
-__[Исходный код](https://github.com/yuliskov/SmartTubeNext)__  
+__[Исходный код](https://github.com/yuliskov/SmartTube)__  
 <!-- - [Доп. apk]({{site.xwalk_libs}}) -->
 <!-- - [MiTV2 версия]({{site.binaries.MiTV2}})    -->
 <!-- - [Mystery версия]({{site.binaries.MiTV2}})    -->
@@ -49,7 +49,7 @@ __[Исходный код](https://github.com/yuliskov/SmartTubeNext)__
 <!-- __Доп. apk__ - это движки вывода вывода. Используются в 1080 и 4K alt версиях. Качайте их только в том случае, если само приложение не в состоянии их поставить. -->
 
 #### Нашли баг?
-Тогда вам __[сюда](https://github.com/yuliskov/SmartTubeNext/issues)__ или в группу Телеграм (адрес ниже)
+Тогда вам __[сюда](https://github.com/yuliskov/SmartTube/issues)__ или в группу Телеграм (адрес ниже)
 
 <!-- #### Спасибо за помощь
 - __[WolfganP](https://github.com/WolfganP)__ (README)
