@@ -20,7 +20,7 @@
 - __Stable release: 28544__
 - __Beta release: 79015__
 
-#### Downloads
+#### Download apk
 - __[Stable release]({{site.binaries.unified}})__
 - __[Beta release]({{site.binaries.unified_beta}})__
 
