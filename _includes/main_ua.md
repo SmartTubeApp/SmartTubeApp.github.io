@@ -15,6 +15,10 @@
 
 <a name="releases-section"/>
 
+#### Downloader codes
+- __Стабільний реліз: 28544__
+- __Бета реліз: 79015__
+
 #### Завантажити
 - __[Стабільний реліз]({{site.binaries.unified}})__
 - __[Бета реліз]({{site.binaries.unified_beta}})__
