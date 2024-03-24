@@ -27,13 +27,13 @@ lang:
   - en
   - ru
 binaries:
-  unified: https://aftv.news/28544
+  unified: https://kutt.it/stn_stable
   # unified_beta: https://github.com/yuliskov/SmartTubeLegacy/releases/download/beta/smartyoutubetv_latest.apk
-  unified_beta: https://aftv.news/79015
+  unified_beta: https://kutt.it/stn_beta
   kids: https://github.com/yuliskov/SmartTubeLegacy/releases/download/stable/kidsyoutubetv_latest.apk
   Live: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.16.89/SYTV_Vlive_v6.16.89_r.apk
   # unified_test: https://github.com/yuliskov/SmartTubeLegacy/releases/
-  unified_test: https://aftv.news/79015
+  unified_test: https://kutt.it/stn_beta
   MiTV2: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.8.6/SmartYouTubeTV_autoapk_s_2.apk
   Mystery: https://github.com/yuliskov/SmartTubeLegacy/releases/download/6.8.6/smartyoutubetv-betaFlavor-debug-Mystery.apk
 xwalk_libs:
