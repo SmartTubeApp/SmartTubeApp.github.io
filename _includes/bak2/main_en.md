@@ -1,20 +1,3 @@
-# Important announcement about the app
-
-My development environment was infected by unknown malicious software, as a result of which a few builds may have been affected. Once the issue was detected, I secured everything with a full disk wipe, restored a clean setup, and now all builds are scanned with VirusTotal. The F-Droid version will also be verified before release.
-
-Public keys may have been compromised, which is why I am sharing this issue. You can download the new version and the new public key below, and instructions for restoring backups are provided.
-
-No extra actions are required since the app uses **one-time connection codes**. These codes have very limited permissions (for example, they cannot change your password). Still, you can revoke them if you want full peace of mind.
-
-# How to revoke access:
-
-1. Open [myaccount.google.com/security](https://myaccount.google.com/security)
-2. Find **“Your connections to third-party apps & services”**
-3. Tap **“See all connection”** and locate **YouTube TV** or **Google Drive**
-4. Select the app → **“Remove access”**
-
-Please keep built-in security features enabled to stay protected.
-
 #### An advanced player for Android-based set-top boxes and tv, free & open source
 
 #### Screenshots
