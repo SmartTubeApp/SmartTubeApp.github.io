@@ -33,11 +33,11 @@ Please keep built-in security features enabled to stay protected.
 
 <a name="releases-section"/>
 
-#### Downloader codes
+#### Downloader codes **{{ site.github.latest_release.tag_name }}**
 - __Stable release: 28544__
 - __Beta release: 79015__
 
-#### Download apk
+#### Download apk **{{ site.github.latest_release.tag_name }}**
 - __[Stable release]({{site.binaries.unified}})__
 - __[Beta release]({{site.binaries.unified_beta}})__
 
