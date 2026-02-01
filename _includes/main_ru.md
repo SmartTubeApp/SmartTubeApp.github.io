@@ -32,11 +32,11 @@
 
 <a name="releases-section"/>
 
-#### Downloader codes **{{ site.github.latest_release.tag_name }}**
+#### Downloader codes
 - __Стабильный релиз: 28544__
 - __Бета релиз: 79015__
 
-#### Скачать apk **{{ site.github.latest_release.tag_name }}**
+#### Скачать apk
 - __[Стабильный релиз]({{site.binaries.unified}})__
 - __[Бета релиз]({{site.binaries.unified_beta}})__ 
 
