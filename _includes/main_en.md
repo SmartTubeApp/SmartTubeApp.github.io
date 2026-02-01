@@ -33,13 +33,13 @@ Please keep built-in security features enabled to stay protected.
 
 <a name="releases-section"/>
 
-#### Downloader codes
-- __Stable release: 28544__
-- __Beta release: 79015__
-
-#### Download apk
+#### [Download apk](https://github.com/yuliskov/SmartTube/releases/latest)
 - __[Stable release]({{site.binaries.unified}})__
 - __[Beta release]({{site.binaries.unified_beta}})__
+
+#### [Downloader codes](https://www.aftvnews.com/downloader/)
+- __Stable release: 28544__
+- __Beta release: 79015__
 
 <a name="donation-section"/>
 

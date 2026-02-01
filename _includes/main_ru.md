@@ -32,13 +32,13 @@
 
 <a name="releases-section"/>
 
-#### Downloader codes
-- __Стабильный релиз: 28544__
-- __Бета релиз: 79015__
-
-#### Скачать apk
+#### [Скачать apk](https://github.com/yuliskov/SmartTube/releases/latest)
 - __[Стабильный релиз]({{site.binaries.unified}})__
 - __[Бета релиз]({{site.binaries.unified_beta}})__ 
+
+#### [Downloader codes](https://www.aftvnews.com/downloader/)
+- __Стабильный релиз: 28544__
+- __Бета релиз: 79015__
 
 #### Гайд по функциям
 
