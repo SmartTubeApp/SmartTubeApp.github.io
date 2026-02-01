@@ -31,6 +31,30 @@ weight: 1
 			window.location.href = '{{ site.baseurl }}/ru/';
 			break;
 	}
+
+	// Source - https://stackoverflow.com/a/78583202 
+	// Posted by EnmanuelGo, modified by community. See post 'Timeline' for change history 
+	// Retrieved 2026-01-18, License - CC BY-SA 4.0 
+ 
+	// document.addEventListener("DOMContentLoaded", function() {
+	//   const disqus = document.getElementById('disqus_thread');
+
+	//   const observer = new MutationObserver(function(mutations) {
+	//     mutations.forEach(function(mutation) {
+	//       const iframes = disqus.getElementsByTagName('iframe');
+	//       if (iframes.length > 1) {
+	//         const commentsIframe = iframes[1];
+	//         while (disqus.firstChild) {
+	//           disqus.removeChild(disqus.firstChild);
+	//         }
+	//         disqus.appendChild(commentsIframe);
+	//         observer.disconnect();
+	//       }
+	//     });
+	//   });
+
+	//   observer.observe(disqus, { childList: true, subtree: true });
+	// });
 </script>
 
 {% include main_en.md %}
