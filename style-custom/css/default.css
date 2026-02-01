@@ -67,3 +67,7 @@ html {
 #disqus_thread iframe:not([src*="comments"]) {
    display: none;
 }
+
+div[data-disqus-poll-id] {
+  display: none !important;
+}
