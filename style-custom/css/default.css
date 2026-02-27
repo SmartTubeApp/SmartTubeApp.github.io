@@ -72,7 +72,8 @@ div[data-disqus-poll-id] {
   display: none !important;
 }
 
-/* Fix Cusdis small size */
+/* Fix Cusdis height */
+/* https://github.com/djyde/cusdis/issues/283 */
 #cusdis_thread iframe {
     min-height: 1000px;
 }
