@@ -68,9 +68,27 @@ html {
    display: none;
 }
 
-div[data-disqus-poll-id] {
+div[data-disqus-poll-id],
+.disqus_poll {
   display: none !important;
 }
+
+/* Begin: Disqus: When clicked/focused */
+
+#disqus_thread iframe {
+  width: 100%;
+  min-height: 400px;
+  border: 0;
+  filter: blur(8px);
+  transition: filter .25s ease;
+}
+
+#disqus_thread:hover iframe,
+#disqus_thread:focus-within iframe {
+  filter: none;
+}
+
+/* End. Disqus: When clicked/focused */
 
 /* Fix Cusdis height */
 /* https://github.com/djyde/cusdis/issues/283 */
