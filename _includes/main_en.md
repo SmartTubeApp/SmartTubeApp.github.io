@@ -110,6 +110,6 @@ You can report in the __[issue tracker on Github](https://github.com/yuliskov/Sm
 #### Contacts
 > __Telegram (international)__: [@SmartTubeEN](http://t.me/SmartTubeEN)  
 > __Telegram (RU/UA)__: [@SmartTubeUA](http://t.me/SmartTubeUA)    
-> __Email__: first.h<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com  
+> __Email__: firsth<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com  
 
 <!-- > __Email__: {{site.email2}}  -->
