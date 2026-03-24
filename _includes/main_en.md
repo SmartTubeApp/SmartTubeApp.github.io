@@ -15,13 +15,13 @@ No extra actions are required since the app uses **one-time connection codes**. 
 
 Please keep built-in security features enabled to stay protected.
 
-#### An advanced player for Android-based set-top boxes and tv, free & open source
+#### SmartTube is an open-source media client for Android TV with advanced playback and browsing features.
 
 #### Screenshots
 {% include home-screenshots.html %}
 
 #### Features
-- No Ads
+- Clean interface
 - Designed for TV screens
 - Up to 8K video resolution
 - Login into your account
