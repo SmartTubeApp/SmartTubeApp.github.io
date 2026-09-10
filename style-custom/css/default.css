@@ -73,22 +73,43 @@ div[data-disqus-poll-id],
   display: none !important;
 }
 
-/* Begin: Disqus: When clicked/focused */
+/* Begin: Disqus: Collapse when clicked */
 
 #disqus_thread iframe {
   width: 100%;
   min-height: 400px;
   border: 0;
-  filter: blur(8px);
-  transition: filter .25s ease;
 }
 
-#disqus_thread:hover iframe,
-#disqus_thread:focus-within iframe {
-  filter: none;
+.disqus-toggle-input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
-/* End. Disqus: When clicked/focused */
+.disqus-toggle-label {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0.7em;
+  font-weight: bold;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 5px;
+}
+
+/* Collapsed by default */
+#disqus_thread {
+  display: none;
+}
+
+/* Expand when checkbox is checked */
+.disqus-toggle-input:checked ~ #disqus_thread {
+  display: block;
+  margin-top: 10px;
+}
+
+/* End. Disqus: Collapse when clicked */
 
 /* Fix Cusdis height */
 /* https://github.com/djyde/cusdis/issues/283 */
