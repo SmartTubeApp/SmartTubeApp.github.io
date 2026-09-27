@@ -109,6 +109,17 @@ div[data-disqus-poll-id],
   margin-top: 10px;
 }
 
+/* Default arrow (down) */
+.disqus-toggle-label::after {
+  content: " ▼";
+  font-size: 0.8em;
+}
+
+/* Arrow when comments are expanded (up) */
+.disqus-toggle-input:checked ~ h2 .disqus-toggle-label::after {
+  content: " ▲";
+}
+
 /* End. Disqus: Collapse when clicked */
 
 /* Fix Cusdis height */
