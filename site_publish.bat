@@ -4,7 +4,7 @@ REM http://joseoncode.com/2011/11/27/solving-utf-problem-with-jekyll-on-windows/
 chcp 65001
 
 REM Fix: don't prompt on host key / IP mismatch warnings
-set GIT_SSH_COMMAND=ssh -o StrictHostKeyChecking=accept-new -o CheckHostIP=no
+set GIT_SSH_COMMAND=ssh -o StrictHostKeyChecking=no -o CheckHostIP=no
 
 cd /d "%~dp0"
 REM rmdir _site /s /q
