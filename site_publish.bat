@@ -38,6 +38,7 @@ goto End
 	popd
 
 	REM new branch: sources
+	REM old code: git checkout -b sources
 
 	git init
 	git remote rm origin
