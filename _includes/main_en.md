@@ -45,8 +45,8 @@ Please keep built-in security features enabled to stay protected.
 
 #### Donation
 If you want to support my developments you are welcome to buy me a cup of coffee :)
-- __PayPal__: firsth<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com
-- [__Patreon (free)__]({{site.donation_patreon}})
+- __PayPal (main)__: firsth<!-- abc@def -->ash@gmai<!-- @abc.com -->l.com
+- [__Patreon (alternative, free)__]({{site.donation_patreon}})
 <!-- - [__Buy me a coffee__]({{site.donation_buy_me_coffee}}) -->
 <!-- - [__PayPal__](https://bit.ly/3wb2FxE) -->
 <!-- - [__QIWI (RU)__]({{site.donation_qiwi}}) -->
